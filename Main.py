@@ -10,7 +10,7 @@ import tempfile
 import pyttsx3 
 import speech_recognition as sr
 
-genai.configure(api_key="AIzaSyCERouGzUbgAj1MQIQLbmUQuuKd_b4hQf8")
+genai.configure(api_key="YOUR KEY")
 TTSengine = pyttsx3.init()
 
 def speak_text(text):
