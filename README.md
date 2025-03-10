@@ -15,7 +15,9 @@
 - **AI Model:** ChatGPT for natural language processing
 
 ## 🔧 Installation & Setup
-1. Clone the repository:
+1. Clone the repository & follow the below mentioned steps:
    ```bash
    git clone https://github.com/yourusername/ikshana.git
    cd ikshana
+   pip3 install -r requirements.txt
+
