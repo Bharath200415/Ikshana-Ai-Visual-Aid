@@ -31,13 +31,13 @@
    
    
 📷 Usage
-Start the application and allow webcam access.
-Position text in front of the camera.
-The AI detects, translates (if needed), and reads aloud the text.
-💡 Future Enhancements
-🔍 Improved text detection accuracy
-🌎 Support for more languages and dialects
-📡 Integration with IoT devices for standalone operation
-🤝 Contributing
-Contributions are welcome! Feel free to fork the repository, submit pull requests, or suggest improvements.
+- Start the application and allow webcam access.
+- Position text in front of the camera.
+- The AI detects, translates (if needed), and reads aloud the text.
+\n💡 Future Enhancements
+\n🔍 Improved text detection accuracy
+\n🌎 Support for more languages and dialects
+\n Integration with IoT devices for standalone operation
+\n 🤝 Contributing
+\n Contributions are welcome! Feel free to fork the repository, submit pull requests, or suggest improvements.
 
