@@ -19,5 +19,25 @@
    ```bash
    git clone https://github.com/yourusername/ikshana.git
    cd ikshana
+2. Install dependencies:
+   ```bash
    pip3 install -r requirements.txt
+3️. Set Up API Keys
+👉 Google Gemini API Key (For Image Processing)
+   Go to Google AI Studio and sign in.
+   Navigate to the API Keys section.
+   Generate a new API key.
+   Copy the API key and insert it into the genai.configure(api_key="YOUR_API_KEY") line in Main.py.
+   
+   
+📷 Usage
+Start the application and allow webcam access.
+Position text in front of the camera.
+The AI detects, translates (if needed), and reads aloud the text.
+💡 Future Enhancements
+🔍 Improved text detection accuracy
+🌎 Support for more languages and dialects
+📡 Integration with IoT devices for standalone operation
+🤝 Contributing
+Contributions are welcome! Feel free to fork the repository, submit pull requests, or suggest improvements.
 
