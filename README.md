@@ -22,12 +22,12 @@
 2. Install dependencies:
    ```bash
    pip3 install -r requirements.txt
-3️. Set Up API Keys
-👉 Google Gemini API Key (For Image Processing)
-   Go to Google AI Studio and sign in.
-   Navigate to the API Keys section.
-   Generate a new API key.
-   Copy the API key and insert it into the genai.configure(api_key="YOUR_API_KEY") line in Main.py.
+3️. Set Up API Keys:
+- 👉 Google Gemini API Key (For Image Processing),
+- Go to Google AI Studio and sign in.
+- Navigate to the API Keys section.
+- Generate a new API key.
+- Copy the API key and insert it into the genai.configure(api_key="YOUR_API_KEY") line in Main.py.
    
    
 📷 Usage
