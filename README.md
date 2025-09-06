@@ -12,7 +12,7 @@
 ## 🚀 Tech Stack
 - **Programming Language:** Python
 - **Frameworks/Libraries:** OpenCV, Tesseract OCR, SpeechRecognition, gTTS, Flask
-- **AI Model:** ChatGPT for natural language processing
+- **AI Model:** Gemini for natural language processing
 
 ## 🔧 Installation & Setup
 1. Clone the repository & follow the below mentioned steps:
